@@ -1,0 +1,111 @@
+.row12 {
+  margin-left: auto;
+  color: yellow;
+  /* border: 2px solid greenyellow; */
+  margin-left: auto;
+}
+
+.body1 {
+  /* top: 10px; */
+  /* background-image: url("pic1.png");     */
+  background-color:orange;
+  height: 605px;
+  width: 100%;
+  background-position: contain;
+  /* padding-top: 50px; */
+  background-image: fixed;
+  background-size: 100% 100%;
+  /* background-attachment: fixed;   */
+  /* border: 2px solid red; */
+  ;
+}
+
+
+.btnset7 {
+  margin-top: 15px;
+
+}
+
+.hardset {
+  margin-top: 200px;
+  box-sizing: border-box;
+}
+
+.ourservice {
+  padding-top: 95px;
+
+  height: 628px;
+  width: 100%;
+
+}
+
+.row {
+  /* border: 2px solid red; */
+  padding-top: 55px;
+}
+
+.imgsetting1 {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border-radius: 100%;
+  /* margin-top: 10px; */
+
+}
+
+.fa-desktop {
+
+  padding-top: 30px;
+}
+
+.rowsetting1 h2 {
+  margin-top: 20px;
+  font-weight: 650;
+}
+
+.rowsetting1 p {
+  margin-top: 20px;
+}
+
+.ourservice1 {
+  padding-top: 72px;
+margin-bottom: 72px;
+}
+
+.ourservice1 .imgset {
+  width: 100%;
+  height: 200px;
+}
+
+.sec3 img{
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+background-color: yellow;
+margin: 15px 0px;
+
+
+}
+.sec3 {
+  padding-top: 68px ;
+}
+
+.ul li a
+{
+   background-color: red;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 10px;
+}
+@media screen and (max-width: 600px) {
+  .ourservice1{
+   margin-top: 500px;
+  }
+}
+
+
+.ft{
+  margin-top: 10px;
+padding-bottom: 15px;
+}
+
+
